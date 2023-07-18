@@ -120,7 +120,7 @@ var skills = [
       "CSS",
       "AJAX",
       "HTML",
-      "jQuery",
+      "Python",
       "JS"
     ],
     "values": [
@@ -131,23 +131,6 @@ var skills = [
       0.80
     ]
   },
-  {
-    "header": "Mordern Web",
-    "captions": [
-      "Vue",
-      "SolidJs",
-      "React",
-      "Angular",
-      "Flutter"
-    ],
-    "values": [
-      0.70,
-      0.75,
-      0.90,
-      0.75,
-      0.60
-    ]
-  }
 ];
 
 var pentagonIndex = 0;
